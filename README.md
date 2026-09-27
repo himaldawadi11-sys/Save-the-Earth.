@@ -37,6 +37,6 @@ JavaScript (vanilla, no frameworks or libraries)
 Used Claude to help debug the HTML/CSS/JS code.
 
 
-## Author
+ Author
 
-[Your name / GitHub username]
+SpaceYatri
